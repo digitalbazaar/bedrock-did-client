@@ -19,6 +19,9 @@
     "url": "https://github.com/digitalbazaar/bedrock-did-client/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-did-client",
+  "dependencies": {
+    "did-io": "^0.6.7"
+  },
   "peerDependencies": {
     "bedrock": "^1.0.0"
   },
