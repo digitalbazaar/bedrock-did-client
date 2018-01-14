@@ -1,5 +1,10 @@
 # bedrock-did-client ChangeLog
 
+## 1.1.2 - 2018-01-14
+
+### Fixed
+- Use `authorization.localhost` domain in dev mode.
+
 ## 1.1.1 - 2017-07-11
 
 ### Fixed
