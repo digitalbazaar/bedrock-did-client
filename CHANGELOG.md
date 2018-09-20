@@ -1,5 +1,10 @@
 # bedrock-did-client ChangeLog
 
+## 2.0.0 - 2018-09-20
+
+### Changed
+- Use did-io 0.7.x.
+
 ## 1.1.2 - 2018-01-14
 
 ### Fixed
