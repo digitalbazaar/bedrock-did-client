@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-did-client",
   "dependencies": {
-    "did-io": "digitalbazaar/did-io#update-terminology",
+    "did-io": "digitalbazaar/did-io#development",
     "jsonld-signatures": "^2.3.0"
   },
   "peerDependencies": {
