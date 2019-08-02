@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-did-client",
   "dependencies": {
-    "did-io": "digitalbazaar/did-io#development"
+    "did-io": "digitalbazaar/did-io#a8d9c01e2bca8c6576f3fc4660835e22bf866f9b"
   },
   "peerDependencies": {
     "bedrock": "^1.0.0"
