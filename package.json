@@ -21,12 +21,18 @@
   "homepage": "https://github.com/digitalbazaar/bedrock-did-client",
   "dependencies": {
     "did-io": "digitalbazaar/did-io#development",
-    "jsonld-signatures": "^2.3.0"
+    "jsonld-signatures": "^2.3.0",
+    "snyk": "^1.279.0"
   },
   "peerDependencies": {
     "bedrock": "^1.0.0"
   },
   "directories": {
     "lib": "./lib"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
